@@ -24,8 +24,8 @@ Durante este proyecto se realizarán los siguientes tipos de pruebas:
 
 ## Entorno de pruebas
 
-Navegador: Google Chrome  
-Sistema operativo: Windows 11  
+Navegador: Google Chrome Versión 145.0.7632.117 (Compilación oficial) (64 bits) 
+Sistema operativo: Windows 11 Pro Versión 25H2  
 Sitio de pruebas: https://www.saucedemo.com
 
 ## Entregables

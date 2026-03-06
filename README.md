@@ -40,5 +40,5 @@ Bugs identificados: 7
 ## Autor
 
 Jonathan Daniel López Peñaloza  
-QA Engineer
+QA Engineer  
 LinkedIn: www.linkedin.com/in/lpjonathandaniel

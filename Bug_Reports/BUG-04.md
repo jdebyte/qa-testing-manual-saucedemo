@@ -8,9 +8,9 @@ Entorno: Google Chrome Versión 145.0.7632.117 (64 bits)
 
 Pasos para reproducir
 
-1.- Acceder al proceso de checkout.
-2.- En el campo de nombre, ingresar caracteres especiales (ej: @#$%&).
-3.- Intentar continuar.
+1.- Acceder al proceso de checkout.  
+2.- En el campo de nombre, ingresar caracteres especiales (ej: @#$%&).  
+3.- Intentar continuar.  
 
 Resultado esperado
 

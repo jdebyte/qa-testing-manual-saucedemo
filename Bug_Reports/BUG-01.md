@@ -8,11 +8,11 @@ Entorno: Google Chrome Versión 145.0.7632.117 (64 bits)
 
 Pasos para reproducir
 
-Iniciar sesión con un usuario válido.  
-Agregar uno o más productos al carrito.  
-Cerrar sesión.  
-Volver a iniciar sesión con el mismo usuario.  
-Revisar el carrito de compras.  
+1.- Iniciar sesión con un usuario válido.  
+2.- Agregar uno o más productos al carrito.  
+3.- Cerrar sesión.  
+4.- Volver a iniciar sesión con el mismo usuario.  
+5.- Revisar el carrito de compras.  
 
 Resultado esperado
 

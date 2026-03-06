@@ -31,10 +31,11 @@ Las pruebas fueron realizadas utilizando la plataforma de demostración SauceDem
 
 ## Resultados
 
-Total de casos de prueba: 80  
-Pruebas exitosas:   
-Pruebas fallidas:   
-Errores encontrados: 
+Total de casos de prueba: 78  
+Casos ejecutados: 78  
+Casos exitosos: 71  
+Casos fallidos: 7  
+Bugs identificados: 7  
 
 ## Autor
 
